@@ -1,0 +1,3 @@
+# DiskLens - 轻量级终端磁盘空间智能分析引擎
+# 零依赖设计 - 纯Python标准库实现
+# No external dependencies required - Pure Python standard library
